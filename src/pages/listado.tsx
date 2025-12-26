@@ -28,7 +28,7 @@ const Listado = () => {
 
     return (
         <>
-            <h1>Pokemon Jhosep</h1>
+            <h1>Listado Pokemon Jhosep</h1>
 
             <header>
                 <input 
