@@ -1,0 +1,10 @@
+1. instalar vs code
+2. ir a esta pagina https://create-react-app.dev/docs/adding-typescript/
+3. crear carpeta del proyecto y abrir terminal dentro de este
+4. ejecutar npx create-react-app my-app --template typescript  pero cambiar "my-app" por el nombre de su proyecto
+5. una vez creada la carpeta ejecutar npm run start
+6. ahora instalar npm i react-router-dom
+7. ahora agregar Boostrap npm install react-boostrap boostrap (Documentacion: https://react-boostrap.github.io/components/cards/)
+8. programar
+9. Iconnos : https://www.flaticon.com/
+10. publicar
